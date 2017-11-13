@@ -1,6 +1,7 @@
 # ImageMeanFilter
 Mean filter for 24-bit .bmp files.
 Use Makefile to compile and/or remove \*.o files (make clean).
+
 Start program with arguments:
 
 ```
